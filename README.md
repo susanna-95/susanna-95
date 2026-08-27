@@ -31,4 +31,4 @@ Welcome to my Data Analytics portfolio, where I showcase projects developed usin
 ## 👋🏻 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/susannamarras/)
-- [GitHub Portfolio](github.com/susanna-95/epicode-data)
+- [GitHub Portfolio](https://github.com/susanna-95?tab=repositories)
