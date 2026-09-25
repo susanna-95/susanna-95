@@ -15,10 +15,6 @@ Curious, determined, and creative, I enjoy collaborating with others to turn com
 
 Welcome to my Data Analytics portfolio, where I showcase projects developed using SQL, Python, Power BI, and Looker Studio.
 
-## 📚 Projects
-
-Welcome to my Data Analytics portfolio, where I showcase projects developed using SQL, Python, Power BI, and Looker Studio.
-
 | Project | Area of Analysis | Tools | Description |
 |---|---|---|---|
 | 🚚 [DataCo Supply Chain Analytics](https://github.com/susanna-95/dataco-supply-chain-analysis) | Supply chain and operational analysis | Python, Pandas, SQL, Power BI, DAX | Analysis of orders, shipping performance, delivery delays, and operational and commercial KPIs. |
